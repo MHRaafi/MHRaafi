@@ -36,5 +36,5 @@
 
 
 <div align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=MHRaafi&theme=radical&hide_border=true&date_format=%5BY.%5Dn.j&mode=weekly&exclude_days=Thu" alt="GitHub Streak" /></a>
+    
 </div>
