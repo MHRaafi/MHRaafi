@@ -8,35 +8,8 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Python, Ruby, Sql**
+ 🌱 I’m currently learning **Cyber Security**
 
  </div>
 
  <hr/>
-
-<h2 align="center">⚙️ Languages-Frameworks-Tools ⚙️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,tailwind,vscode,github,git" />
-    <br/>
-     <img src="https://skillicons.dev/icons?i=python,ruby,mysql,firebase,aws,powershell,devto,autocad" />
-</div>
-<br/>
-<hr/>
-
-<div align="center">
-  <h2>🍀 My Contributions 🍀</h2>
-  <br>
-  <img align="center" src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg"/>
-  
-  <br/>
-  <br/>
-  <br/>
-</div>
-
-<hr/>
-
-
-<div align="center">
-    
-</div>
