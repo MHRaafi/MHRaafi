@@ -8,7 +8,7 @@
 
 <div align="center">
  
- 🌱 I’m currently learning **Cyber Security**
+ 🌱 I’m currently learning **HTML, CSS, JS**
 
  </div>
 
